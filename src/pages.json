@@ -7,6 +7,12 @@
 			}
 		},
 		{
+			"path": "pages/book/book",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
 			"path" : "pages/show/show",
 			"style" : 
 			{
